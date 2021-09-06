@@ -16,7 +16,8 @@ Modify the previous program such that only multiples of three or five are consid
 8. Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. It counts only as one try if they input the same number multiple times consecutively. (https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/a/a-guessing-game)
 
 9. Write a program that prints the next 20 leap years.
-10. Write a program that decide the grade of user score(n), followwing
+10. Write a program that decide the grade of user score(n), following
+
 |Grade|Score|
 |---|---|
 |`A`| more than 80|
