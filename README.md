@@ -46,7 +46,12 @@ Modify the previous program such that only multiples of three or five are consid
 
 7. Write three functions that compute the sum of the numbers in a list: using a for-loop, a while-loop and recursion. (Subject to availability of these constructs in your language of choice.)
 
-8. Write a function on_all that applies a function to every element of a list. Use it to print the first twenty perfect squares. The perfect squares can be found by multiplying each natural number with itself. The first few perfect squares are 1\*1= 1, 2\*2=4, 3\*3=9, 4\*4=16. Twelve for example is not a perfect square because there is no natural number m so that m\*m=12. (This question is tricky if your programming language makes it difficult to pass functions as arguments.)
+8. Write a function on_all that applies a function to every element of a list. Use it to print the first twenty perfect squares. The perfect squares can be found by multiplying each natural number with itself. The first few perfect squares are 1\*1= 1, 2\*2=4, 3\*3=9, 4\*4=16. <br/>
+**e.g.**
+<br/>  the lists is [1, 2, 3] => for 1 will be print 1\*1, 2\*2, ..., 20\*20
+<br/> for 2 will be print 2\*2, 3\*3, ..., 21\*21
+<br/> for 3 will be print 3\*3, 4\*4, ..., 22\*22
+
 
 9. Write a function that concatenates two lists. [a,b,c], [1,2,3] → [a,b,c,1,2,3]
 
