@@ -6,5 +6,9 @@ def getTwenty(num):
 
 array = [1, 2, 3, 4, 5, 6, 7]
 print("Lists:", array)
-for num in array:
-    print("Perfect array of {} is {}".format(num, getTwenty(num)))
+
+def on_all(arrList):
+    for num in arrList:
+        print("Perfect array of {} is {}".format(num, getTwenty(num)))
+
+on_all(array)
